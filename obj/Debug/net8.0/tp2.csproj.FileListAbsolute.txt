@@ -1,0 +1,14 @@
+N:\Desktop\3eme ing\tp .net\tp2\bin\Debug\net8.0\tp2.exe
+N:\Desktop\3eme ing\tp .net\tp2\bin\Debug\net8.0\tp2.deps.json
+N:\Desktop\3eme ing\tp .net\tp2\bin\Debug\net8.0\tp2.runtimeconfig.json
+N:\Desktop\3eme ing\tp .net\tp2\bin\Debug\net8.0\tp2.dll
+N:\Desktop\3eme ing\tp .net\tp2\bin\Debug\net8.0\tp2.pdb
+N:\Desktop\3eme ing\tp .net\tp2\obj\Debug\net8.0\tp2.GeneratedMSBuildEditorConfig.editorconfig
+N:\Desktop\3eme ing\tp .net\tp2\obj\Debug\net8.0\tp2.AssemblyInfoInputs.cache
+N:\Desktop\3eme ing\tp .net\tp2\obj\Debug\net8.0\tp2.AssemblyInfo.cs
+N:\Desktop\3eme ing\tp .net\tp2\obj\Debug\net8.0\tp2.csproj.CoreCompileInputs.cache
+N:\Desktop\3eme ing\tp .net\tp2\obj\Debug\net8.0\tp2.dll
+N:\Desktop\3eme ing\tp .net\tp2\obj\Debug\net8.0\refint\tp2.dll
+N:\Desktop\3eme ing\tp .net\tp2\obj\Debug\net8.0\tp2.pdb
+N:\Desktop\3eme ing\tp .net\tp2\obj\Debug\net8.0\tp2.genruntimeconfig.cache
+N:\Desktop\3eme ing\tp .net\tp2\obj\Debug\net8.0\ref\tp2.dll
